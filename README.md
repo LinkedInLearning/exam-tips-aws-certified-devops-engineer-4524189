@@ -5,7 +5,7 @@ This is the repository for the LinkedIn Learning course `Exam Tips: AWS Certifie
 
 This course provides information and tips for taking and passing the AWS Certified DevOps Engineer Professional Certification (DOP-CO2) Exam and mastering the AWS platform. Instructor Dipali Kulshrestha covers the domains of the exam focused on: SDLC automation, configuration management and IaC, resilient cloud solutions, monitoring and logging, incident and event response, and security and compliance. By the end of this course, you'll be better prepared to take the AWS DevOps Professional Certification—and equipped with the practical skills needed to excel in real-world DevOps environments.
 
-##Instructor
+# Instructor
 
 Dipali Kulshrestha
 
