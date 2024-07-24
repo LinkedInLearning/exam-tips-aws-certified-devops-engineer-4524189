@@ -14,5 +14,5 @@ AWS-Certified Software Programmer and Cloud Architect
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/aws-certified-devops-engineer-professional-dop-c02-exam-tips
-[lil-thumbnail-url]: http://
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQHfTMVn1RwJGA/learning-public-crop_675_1200/0/1721762164883?e=2147483647&v=beta&t=15ft8Q_mn0clkKHano7B4anZUeUTXec7JN4CKKdkzZM
 
